@@ -1,4 +1,4 @@
-## Hi! I'm Marina Siqueira 👋
+## Hi! I'm Marina Hermógenes 👋
 
 ## About me
 - I’m currently a Computer Science student at UFLA. I enjoy learning new technologies and am always eager to collaborate and grow.
